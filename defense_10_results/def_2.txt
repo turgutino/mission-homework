@@ -1,0 +1,2 @@
+Adversarial Prediction: 0.87477046251297
+Defense Prediction: 0.9404862523078918

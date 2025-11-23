@@ -1,0 +1,10 @@
+ONE-PIXEL ATTACK RESULTS
+========================
+Image Index: 41
+Original Label: 0
+Original Prediction: 0.3018
+Adversarial Prediction: 0.0018
+
+Modified Pixel: (77, 1)
+RGB Values: (209.5, 79.1, 91.5)
+Attack Successful: True

@@ -1,0 +1,4 @@
+Epsilon: 0.05
+Original: ok_front
+Adversarial: def_front
+Attack: SUCCESS
